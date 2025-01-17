@@ -192,7 +192,7 @@ main > section{
     height: 50px;
    border: none;
    border-radius: 8px;
-   text-align: center;
+   /* text-align: center; */
    margin-left: 30px;
     background-color: rgba(255, 244, 231, 1);
 }
@@ -215,6 +215,9 @@ main > section{
         margin-top:20px ;
         margin-left: 20px;
     }
+    .footer{
+        width: 500px;
+    }
 }
 
 
@@ -234,5 +237,8 @@ main > section{
     #experience-badge{
         margin-top:20px ;
         margin-left: 20px;
+    }
+    .footer{
+        width: 802px;
     }
 }

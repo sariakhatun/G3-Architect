@@ -183,19 +183,20 @@ main > section{
     margin-bottom: 20px;
 }
 /* footer */
-.footer{
+ /* .footer{
     justify-content: center;
     margin-top: 30px;
+    max-width: 1440px;
+    height: 50px;
 }
 .input{
-    width: 1340px;
-    height: 50px;
+    
    border: none;
    border-radius: 8px;
-   /* text-align: center; */
+   /* text-align: center; 
    margin-left: 30px;
     background-color: rgba(255, 244, 231, 1);
-}
+}  */
 /* responsive */
 @media screen and (max-width:576px) {
     .navbar, .nav-links, .teams,.features{
@@ -215,9 +216,9 @@ main > section{
         margin-top:20px ;
         margin-left: 20px;
     }
-    .footer{
+    /* .footer{
         width: 500px;
-    }
+    } */
 }
 
 
@@ -238,7 +239,7 @@ main > section{
         margin-top:20px ;
         margin-left: 20px;
     }
-    .footer{
+    /* .footer{
         width: 802px;
-    }
+    } */
 }
